@@ -1,4 +1,7 @@
 # DVWA Lab 01 — Authentication
+Authentication state is maintained entirely via the PHPSESSID cookie.
+Manually replacing the PHPSESSID value in the browser results in session takeover.
+
 
 ## Objective
 Analyze DVWA login authentication at the HTTP level and identify
