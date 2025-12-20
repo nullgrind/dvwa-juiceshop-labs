@@ -1,0 +1,1 @@
+Juice Shop must keep running for labs to work. Running docker run without -d attaches the terminal to the container; pressing Ctrl+C stops the service. For reproducible labs, run it detached with -d or keep the terminal session open.
